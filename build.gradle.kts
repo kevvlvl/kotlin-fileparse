@@ -16,6 +16,7 @@ dependencies {
 
     implementation("io.github.microutils:kotlin-logging-jvm:2.0.11")
     implementation("org.slf4j:slf4j-simple:1.7.32")
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.13.+")
     testImplementation(kotlin("test"))
 }
 

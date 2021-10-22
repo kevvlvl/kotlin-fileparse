@@ -1,0 +1,5 @@
+[
+  { "name": "ABC", "description": "Fake Company", "stockValue": "30.25" },
+  { "name": "XYZ", "description": "Fake Company Rebooted", "stockValue": "15.50" },
+  { "name": "TOTO", "description": "Africa stock", "stockValue": "999.98" }
+]
